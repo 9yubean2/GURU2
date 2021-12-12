@@ -1,0 +1,2 @@
+rootProject.name = "Teampling App"
+include ':app'
